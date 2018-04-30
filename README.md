@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Lizechen's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/lizechen2018/harbour_pygame/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What is this?
+Something from the book by harbour and changed by lizechen.
 
 ### Markdown
 
